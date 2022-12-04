@@ -1,0 +1,14 @@
+{
+  "name": "template-engine",
+  "version": "0.0.1",
+  "description": "简单的模板引擎",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "keywords": [
+    "template-engine"
+  ],
+  "author": "lvdengming@baidu.com",
+  "license": "MIT"
+}
